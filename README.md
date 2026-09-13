@@ -2,7 +2,16 @@
   <img src="https://i.pinimg.com/1200x/0a/3e/a2/0a3ea2a5d7d915827900bb28b3ca7c1a.jpg" alt="Banner" width="100%" />
 </p>
 
-<h2 align="center">Bem-vindo ao meu perfil do Github<h2/> <img src="https://i.pinimg.com/originals/6a/9e/52/6a9e52fabde1b32ebdb1bb497739d8b6.gif" alt="Photo Personal" width="15%" />
+<table>
+  <tr>
+    <td>
+      <h2>Bem-vindo ao meu perfil do GitHub</h2>
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/6a/9e/52/6a9e52fabde1b32ebdb1bb497739d8b6.gif" alt="Photo Personal" width="120"/>
+    </td>
+  </tr>
+</table>
   
 
 
