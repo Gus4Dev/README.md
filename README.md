@@ -56,22 +56,6 @@
 
 ---
 
-<!-- Mini “legenda” das cores (opcional, mas ajuda a “lembrar”) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-Sobre-0D1117?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Tech-0D1117?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Study-0D1117?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Next-0D1117?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Projects-0D1117?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Contact-0D1117?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Stats-0D1117?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Edu-0D1117?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Lang-0D1117?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Career-0D1117?style=flat-square" alt=""/>
-</p>
-
----
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/5e/cb/33/5ecb33321e1638e8b9dc0a38255a72e2.gif" alt="Banner" width="100%" />
 </p>
