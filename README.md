@@ -54,6 +54,8 @@
   </a>
 </p>
 
+---
+
 <!-- Mini “legenda” das cores (opcional, mas ajuda a “lembrar”) -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Sobre-A371F7?style=flat-square" alt=""/>
