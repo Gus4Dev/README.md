@@ -176,22 +176,6 @@ Conjunto de projetos e exercícios desenvolvidos durante meus estudos de **HTML,
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Gus4Dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" />
-</p>
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gus4Dev&bg_color=0d1117&color=a371f7&line=a371f7&point=ffffff&area=true&hide_border=true" width="95%" />
-</p>
-
----
-
 ### 🎓 Formação
 
 * **Ensino Médio Técnico Integrado em Logística**
