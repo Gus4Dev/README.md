@@ -432,6 +432,6 @@ Meu objetivo é atuar profissionalmente com **Desenvolvimento de Software**, com
 </p>
 <p align="center">
   <a href="#menu">
-    <img src="https://img.shields.io/badge/⬆_Voltar_ao_Topo_⬆-A371F7?style=for-the-badge" alt="Voltar ao Topo"/>
+    <img src="https://img.shields.io/badge/⬆_Voltar_ao_Topo_⬆-C4C4C4?style=for-the-badge" alt="Voltar ao Topo"/>
   </a>
 </p>
