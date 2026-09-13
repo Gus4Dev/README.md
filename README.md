@@ -58,16 +58,16 @@
 
 <!-- Mini “legenda” das cores (opcional, mas ajuda a “lembrar”) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Sobre-A371F7?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Tech-0EA5E9?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Study-22C55E?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Next-F97316?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Projects-EC4899?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Contact-14B8A6?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Stats-6366F1?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Edu-EAB308?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Lang-38BDF8?style=flat-square" alt=""/>
-  <img src="https://img.shields.io/badge/-Career-F43F5E?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Sobre-0D1117?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Tech-0D1117?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Study-0D1117?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Next-0D1117?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Projects-0D1117?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Contact-0D1117?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Stats-0D1117?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Edu-0D1117?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Lang-0D1117?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Career-0D1117?style=flat-square" alt=""/>
 </p>
 
 ---
