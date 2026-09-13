@@ -7,11 +7,10 @@
     </td>
     <td width="70%">
       <h4>Sobre Mim</h4>
-      <p><h4>
+      <h4 p>
         Estudante de TI pelo PROA/SENAC, focado em Desenvolvimento de Software e Backend.
         Desenvolvendo conhecimentos em JavaScript, Python, HTML, CSS e Lógica de Programação
         por meio de projetos práticos, com objetivo de evoluir para Full Stack.</h4>
-      </p>
     </td>
   </tr>
 </table>
