@@ -5,7 +5,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A371F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%3AD;Estudante+de+Tecnologia+da+Informa%C3%A7%C3%A3o;Construindo+minha+base+em+Backend;Transformando+curiosidade+em+c%C3%B3digo" alt="Typing SVG"/>
 
-<br><br>
 
 <img src="https://media.tenor.com/lxJgp-a8MrgAAAA1/laeppa-vika-half-life-alyx.webp" alt="Banner" width="440"/>
 
