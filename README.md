@@ -8,8 +8,6 @@
 
 ## 📑 Menu
 
----
-
 <p align="center">
 
 <a href="#-sobre-mim">
@@ -58,18 +56,11 @@
 
 </p>
 
+---
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/5e/cb/33/5ecb33321e1638e8b9dc0a38255a72e2.gif" alt="Banner" width="100%" />
 </p>
-
-.menu a {
-    background: #111111;
-    color: white;
-}
-
-.menu a.ativo {
-    background: #A371F7;
-}
 
 ---
 
