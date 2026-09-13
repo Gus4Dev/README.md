@@ -10,23 +10,23 @@
 
 <p align="center">
 
-<a href="#-sobre-mim">
+* <a href="#-sobre-mim">
 <img src="https://img.shields.io/badge/👨‍💻%20Sobre%20Mim-A371F7?style=for-the-badge" />
 </a>
 
-<a href="#tecnologias">
+* <a href="#tecnologias">
 <img src="https://img.shields.io/badge/🛠️%20Tecnologias%20e%20Ferramentas-111111?style=for-the-badge" />
 </a>
 
-<a href="#-atualmente-estudando">
+* <a href="#-atualmente-estudando">
 <img src="https://img.shields.io/badge/📚%20Estudando-111111?style=for-the-badge" />
 </a>
 
-<a href="#-próximos-passos">
+* <a href="#-próximos-passos">
 <img src="https://img.shields.io/badge/🚀%20Próximos%20Passos-111111?style=for-the-badge" />
 </a>
 
-<a href="#-projetos-em-destaque">
+* <a href="#-projetos-em-destaque">
 <img src="https://img.shields.io/badge/📂%20Projetos-111111?style=for-the-badge" />
 </a>
 
@@ -34,23 +34,23 @@
 
 <p align="center">
 
-<a href="#-contato">
+* <a href="#-contato">
 <img src="https://img.shields.io/badge/📫%20Contato-111111?style=for-the-badge" />
 </a>
 
-<a href="#-github-stats">
+* <a href="#-github-stats">
 <img src="https://img.shields.io/badge/📊%20GitHub%20Stats-111111?style=for-the-badge" />
 </a>
 
-<a href="#-formação">
+* <a href="#-formação">
 <img src="https://img.shields.io/badge/🎓%20Formação-111111?style=for-the-badge" />
 </a>
 
-<a href="#-idiomas">
+* <a href="#-idiomas">
 <img src="https://img.shields.io/badge/🌎%20Idiomas-111111?style=for-the-badge" />
 </a>
 
-<a href="#-direcionamento-profissional">
+* <a href="#-direcionamento-profissional">
 <img src="https://img.shields.io/badge/🎯%20Carreira-111111?style=for-the-badge" />
 </a>
 
