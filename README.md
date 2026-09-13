@@ -8,7 +8,6 @@
 <img src="https://media.tenor.com/lxJgp-a8MrgAAAA1/laeppa-vika-half-life-alyx.webp" alt="Banner" width="440"/>
 
 ---
-<br>
 
 <img src="https://komarev.com/ghpvc/?username=Gus4Dev&style=for-the-badge&color=A371F7&label=VISITANTES"/>
 <img src="https://img.shields.io/github/followers/Gus4Dev?style=for-the-badge&color=0EA5E9&labelColor=0D1117&logo=github"/>
