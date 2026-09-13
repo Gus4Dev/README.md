@@ -6,10 +6,12 @@
 
 ---
 
-<h2>Início</h2>
+<h2>Súmario</h2>
 <p align="center">
   <img src="https://i.pinimg.com/originals/5e/cb/33/5ecb33321e1638e8b9dc0a38255a72e2.gif" alt="Banner" width="100%" />
 </p>
+
+---
 
 <h2 align="center"><b>Software Development | Backend → Full Stack</b></h2>
 
