@@ -3,6 +3,7 @@
 <p align="left">
 <img src="https://i.pinimg.com/originals/6a/9e/52/6a9e52fabde1b32ebdb1bb497739d8b6.gif" alt="Photo Personal" width="25%" />
 </p>
+<p aling="left">Estudante de TI pelo PROA/SENAC, focado em Desenvolvimento de Software e Backend. Desenvolvendo conhecimentos em JavaScript, Python, HTML, CSS e Lógica de Programação por meio de projetos práticos, com objetivo de evoluir para Full Stack.</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/5e/cb/33/5ecb33321e1638e8b9dc0a38255a72e2.gif" alt="Banner" width="100%" />
