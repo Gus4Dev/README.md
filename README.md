@@ -300,6 +300,8 @@ Conjunto de projetos e exercícios desenvolvidos durante meus estudos de **HTML,
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/3d/4b/b2/3d4bb2f1c2e1e955144e77f549972cac.gif" alt="Divisor" width="100%" />
 </p>
 
 ---
