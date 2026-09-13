@@ -14,6 +14,20 @@
 <i>"Aprendendo, criando e construindo meu caminho na tecnologia."</i>
 </p>
 
+<p align="center">
+<a href="LINK_README_PT">
+<img src="https://img.shields.io/badge/🇧🇷%20Português-A371F7?style=for-the-badge"/>
+</a>
+
+<a href="LINK_README_EN">
+<img src="https://img.shields.io/badge/🇺🇸%20English-111111?style=for-the-badge"/>
+</a>
+
+<a href="LINK_README_ES">
+<img src="https://img.shields.io/badge/🇪🇸%20Español-111111?style=for-the-badge"/>
+</a> 
+</p>
+
 <hr/>
 
 ### 💻 Sobre Mim
