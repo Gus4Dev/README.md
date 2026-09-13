@@ -376,7 +376,7 @@ Coleção de exercícios e páginas construídas durante os estudos.
 <a id="formacao"></a>
 
 <p align="center">
-<a href="#menu"><img src="https://img.shields.io/badge/⬆-0D1117?style=flat-square" height="26"/></a>
+<a href="#menu"><img src="https://img.shields.io/badge/ :O -0D1117?style=flat-square" height="26"/></a>
 <a href="#sobre"><img src="https://img.shields.io/badge/👨‍💻-0D1117?style=flat-square" height="26"/></a>
 <a href="#stack"><img src="https://img.shields.io/badge/🛠️-0D1117?style=flat-square" height="26"/></a>
 <a href="#estudos"><img src="https://img.shields.io/badge/📚-0D1117?style=flat-square" height="26"/></a>
