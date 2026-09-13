@@ -2,18 +2,8 @@
   <img src="https://i.pinimg.com/1200x/0a/3e/a2/0a3ea2a5d7d915827900bb28b3ca7c1a.jpg" alt="Banner" width="100%" />
 </p>
 
-<table>
-  <tr>
-    <td>
-      <h2>Bem-vindo ao meu perfil do GitHub</h2>
-    </td>
-    <td>
-      <img aling="left"; src="https://i.pinimg.com/originals/6a/9e/52/6a9e52fabde1b32ebdb1bb497739d8b6.gif" alt="Photo Personal" width="120"/>
-    </td>
-  </tr>
-</table>
-  
-
+  <h2>Bem-vindo ao meu perfil do GitHub</h2>
+    <p align="center"><img aling="left"; src="https://camo.githubusercontent.com/365ea764f9d693f094b3e10faa82ed000adcf23673d8f662d3717f47b08f2837/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6c784a67702d61384d726741414141312f6c61657070612d76696b612d68616c662d6c6966652d616c79782e77656270" alt="BannerV2l" width="200"/> </p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/5e/cb/33/5ecb33321e1638e8b9dc0a38255a72e2.gif" alt="Banner" width="100%" />
