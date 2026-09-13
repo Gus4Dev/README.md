@@ -1,5 +1,27 @@
 <img src="https://camo.githubusercontent.com/365ea764f9d693f094b3e10faa82ed000adcf23673d8f662d3717f47b08f2837/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6c784a67702d61384d726741414141312f6c61657070612d76696b612d68616c662d6c6966652d616c79782e77656270" alt="BannerV2" width="484"/> &nbsp;&nbsp; </div>
-📑 Menu
+<a id="menu"></a>
+
+<div align="center">
+
+### 📑 NAVEGAÇÃO
+
+<i>Cada seção tem sua cor — o botão aceso mostra onde você está</i>
+
+<br>
+
+<a href="#sobre"><img src="https://img.shields.io/badge/👨‍💻_SOBRE_MIM-A371F7?style=for-the-badge&labelColor=0D1117" height="36"/></a>
+<a href="#stack"><img src="https://img.shields.io/badge/🛠️_STACK-0EA5E9?style=for-the-badge&labelColor=0D1117" height="36"/></a>
+<a href="#estudos"><img src="https://img.shields.io/badge/📚_ESTUDOS-22C55E?style=for-the-badge&labelColor=0D1117" height="36"/></a>
+<a href="#roadmap"><img src="https://img.shields.io/badge/🚀_ROADMAP-F97316?style=for-the-badge&labelColor=0D1117" height="36"/></a>
+<a href="#projetos"><img src="https://img.shields.io/badge/📂_PROJETOS-EC4899?style=for-the-badge&labelColor=0D1117" height="36"/></a>
+
+<a href="#stats"><img src="https://img.shields.io/badge/📊_STATS-6366F1?style=for-the-badge&labelColor=0D1117" height="36"/></a>
+<a href="#formacao"><img src="https://img.shields.io/badge/🎓_FORMAÇÃO-EAB308?style=for-the-badge&labelColor=0D1117" height="36"/></a>
+<a href="#idiomas"><img src="https://img.shields.io/badge/🌎_IDIOMAS-38BDF8?style=for-the-badge&labelColor=0D1117" height="36"/></a>
+<a href="#carreira"><img src="https://img.shields.io/badge/🎯_CARREIRA-F43F5E?style=for-the-badge&labelColor=0D1117" height="36"/></a>
+<a href="#contato"><img src="https://img.shields.io/badge/📫_CONTATO-14B8A6?style=for-the-badge&labelColor=0D1117" height="36"/></a>
+
+</div>
 
 💻 Sobre Mim
 
@@ -140,29 +162,7 @@ Meu objetivo é atuar profissionalmente com Desenvolvimento de Software, começa
 ---
 
 <!-- ══════════════ MENU ══════════════ -->
-<a id="menu"></a>
 
-<div align="center">
-
-### 📑 NAVEGAÇÃO
-
-<i>Cada seção tem sua cor — o botão aceso mostra onde você está</i>
-
-<br>
-
-<a href="#sobre"><img src="https://img.shields.io/badge/👨‍💻_SOBRE_MIM-A371F7?style=for-the-badge&labelColor=0D1117" height="36"/></a>
-<a href="#stack"><img src="https://img.shields.io/badge/🛠️_STACK-0EA5E9?style=for-the-badge&labelColor=0D1117" height="36"/></a>
-<a href="#estudos"><img src="https://img.shields.io/badge/📚_ESTUDOS-22C55E?style=for-the-badge&labelColor=0D1117" height="36"/></a>
-<a href="#roadmap"><img src="https://img.shields.io/badge/🚀_ROADMAP-F97316?style=for-the-badge&labelColor=0D1117" height="36"/></a>
-<a href="#projetos"><img src="https://img.shields.io/badge/📂_PROJETOS-EC4899?style=for-the-badge&labelColor=0D1117" height="36"/></a>
-
-<a href="#stats"><img src="https://img.shields.io/badge/📊_STATS-6366F1?style=for-the-badge&labelColor=0D1117" height="36"/></a>
-<a href="#formacao"><img src="https://img.shields.io/badge/🎓_FORMAÇÃO-EAB308?style=for-the-badge&labelColor=0D1117" height="36"/></a>
-<a href="#idiomas"><img src="https://img.shields.io/badge/🌎_IDIOMAS-38BDF8?style=for-the-badge&labelColor=0D1117" height="36"/></a>
-<a href="#carreira"><img src="https://img.shields.io/badge/🎯_CARREIRA-F43F5E?style=for-the-badge&labelColor=0D1117" height="36"/></a>
-<a href="#contato"><img src="https://img.shields.io/badge/📫_CONTATO-14B8A6?style=for-the-badge&labelColor=0D1117" height="36"/></a>
-
-</div>
 
 <br>
 
