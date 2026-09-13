@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
+  <img src="https://media.tenor.com/lxJgp-a8MrgAAAA1/laeppa-vika-half-life-alyx.webp" alt="Banner" width="100%" />
 </p>
 
 <h2 align="center"><b>Software Development | Backend → Full Stack</b></h2>
