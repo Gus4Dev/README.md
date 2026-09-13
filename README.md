@@ -186,9 +186,9 @@ Conjunto de projetos e exercícios desenvolvidos durante meus estudos de **HTML,
 
 ### 🌎 Idiomas
 
-🇧🇷 **Português:** Nativo
-🇪🇸 **Espanhol:** Básico
-🇺🇸 **Inglês:** Em desenvolvimento
+* 🇧🇷 **Português:** Nativo
+* 🇪🇸 **Espanhol:** Básico
+* 🇺🇸 **Inglês:** Em desenvolvimento
 
 ---
 
