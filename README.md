@@ -115,8 +115,6 @@ Estudante de **Tecnologia da Informação** com foco em **Desenvolvimento de Sof
 
 <br>
 
-<img width="90%" src="https://raw.githubusercontent.com/Gus4Dev/Gus4Dev/output/snake-dark.svg"/>
-
 <!-- ══════════════ 02 · STACK ══════════════ -->
 <a id="stack"></a>
 
@@ -452,29 +450,6 @@ Coleção de exercícios e páginas construídas durante os estudos.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:F43F5E&height=48&section=header&text=%20🎯%20%20CARREIRA&fontSize=24&fontColor=FFFFFF&fontAlignY=52&align=left&fontAlign=13"/>
 
 <div align="center">
-
-name: Snake
-on:
-  schedule: [{cron: "0 */12 * * *"}]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions: {contents: write}
-    steps:
-      - uses: Platane/snk@v3
-        id: snake
-        with:
-          github_user_name: Gus4Dev
-          outputs: |
-            dist/snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
-
-        
 
 <img src="https://img.shields.io/badge/Fundamentos-A371F7?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/→-0D1117?style=for-the-badge"/>
