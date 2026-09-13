@@ -121,8 +121,6 @@ Meu objetivo é atuar profissionalmente com Desenvolvimento de Software, começa
 
 <div align="center"> <h1>Bem-vindo ao meu perfil do GitHub :D</h1> </p>
 
-<br><br>
-
 <img src="https://media.tenor.com/lxJgp-a8MrgAAAA1/laeppa-vika-half-life-alyx.webp" alt="Banner" width="440"/>
 
 <br><br>
