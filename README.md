@@ -1,6 +1,6 @@
 <h2 align="center">Welcome to my Github profile<h2/>
   
-<p align="center">
+<p align="left">
 <img src="https://i.pinimg.com/originals/6a/9e/52/6a9e52fabde1b32ebdb1bb497739d8b6.gif" alt="Photo Personal" width="25%" />
 </p>
 
