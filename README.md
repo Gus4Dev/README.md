@@ -6,7 +6,7 @@
 
 ---
 
-### <p align="center"><h2>📑 Menu</h2></p>
+### <h2 align="center">📑 Menu</h2>
 
 <!-- Linha 1 -->
 <p align="center">
