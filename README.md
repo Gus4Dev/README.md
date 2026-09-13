@@ -395,7 +395,7 @@ Coleção de exercícios e páginas construídas durante os estudos.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:EAB308&height=48&section=header&text=%20🎓%20%20FORMAÇÃO&fontSize=24&fontColor=FFFFFF&fontAlignY=52&align=left&fontAlign=14"/>
 
-| | Formação | Instituição | Status |
+| 📚 | Formação | Instituição | Status |
 |:--:|:--|:--|:--:|
 | 🏆 | **Técnico Integrado em Logística** | Ensino Médio | ![](https://img.shields.io/badge/Concluído-22C55E?style=flat-square) |
 | 💻 | **Tecnologia da Informação** | PROA / SENAC | ![](https://img.shields.io/badge/Cursando-F97316?style=flat-square) |
