@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/👨‍💻%20Sobre%20Mim-A371F7?style=for-the-badge" />
 </a>
 
-<a href="#%EF%B8%8F-tecnologias-e-ferramentas">
+<a href="#tecnologias">
 <img src="https://img.shields.io/badge/🛠️%20Tecnologias%20e%20Ferramentas-111111?style=for-the-badge" />
 </a>
 
@@ -105,6 +105,7 @@ Atualmente estou construindo minha base por meio de estudos, projetos práticos 
 * 🎓 **Próximo objetivo acadêmico:** Cursar **Análise e Desenvolvimento de Sistemas (ADS)**.
 
 ---
+<a name="tecnologias"></a>
 
 <p align="left">🛠️ Tecnologias e Ferramentas</p>
 
