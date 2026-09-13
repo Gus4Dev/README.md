@@ -1,7 +1,20 @@
 <h2 align="center">Welcome to my Github profile<h2/>
   
-<p align="left">
-<img src="https://i.pinimg.com/originals/6a/9e/52/6a9e52fabde1b32ebdb1bb497739d8b6.gif" alt="Photo Personal" width="25%" /> <h3>Estudante de TI pelo PROA/SENAC, focado em Desenvolvimento de Software e Backend. Desenvolvendo conhecimentos em JavaScript, Python, HTML, CSS e Lógica de Programação por meio de projetos práticos, com objetivo de evoluir para Full Stack.</h3> </p>
+<table>
+  <tr>
+    <td width="30%">
+      <img src="https://i.pinimg.com/originals/6a/9e/52/6a9e52fabde1b32ebdb1bb497739d8b6.gif" alt="Photo Personal" width="100%" />
+    </td>
+    <td width="70%">
+      <h3>Sobre Mim</h3>
+      <p>
+        Estudante de TI pelo PROA/SENAC, focado em Desenvolvimento de Software e Backend.
+        Desenvolvendo conhecimentos em JavaScript, Python, HTML, CSS e Lógica de Programação
+        por meio de projetos práticos, com objetivo de evoluir para Full Stack.
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
