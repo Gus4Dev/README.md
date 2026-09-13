@@ -423,11 +423,12 @@ Meu objetivo é atuar profissionalmente com **Desenvolvimento de Software**, com
 <p align="center">
 <i>"Transformando curiosidade em código, ideias em projetos e aprendizado em evolução."</i>
 </p>
-
 <p align="center">
-  <a href="#topo"><img src="https://img.shields.io/badge/⬆️_Voltar_ao_Topo-C4C4C4?style=flat-square" alt="Voltar ao topo"/></a>
+  <a href="#menu">
+    <img src="https://img.shields.io/badge/⬆_Voltar_ao_Topo-A371F7?style=for-the-badge" alt="Voltar ao Topo"/>
+  </a>
 </p>
 
 <p align="center">
-  <b>Gus4Dev</b>
+<b>Gus4Dev</b>
 </p>
