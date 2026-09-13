@@ -8,52 +8,64 @@
 
 ## 📑 Menu
 
+<!-- Linha 1 -->
 <p align="center">
-
-<a href="#-sobre-mim">
-<img src="https://img.shields.io/badge/👨‍💻%20Sobre%20Mim-A371F7?style=for-the-badge" />
-</a>
-
-<a href="#tecnologias">
-<img src="https://img.shields.io/badge/🛠️%20Tecnologias%20e%20Ferramentas-111111?style=for-the-badge" />
-</a>
-
-<a href="#-atualmente-estudando">
-<img src="https://img.shields.io/badge/📚%20Estudando-111111?style=for-the-badge" />
-</a>
-
-<a href="#-próximos-passos">
-<img src="https://img.shields.io/badge/🚀%20Próximos%20Passos-111111?style=for-the-badge" />
-</a>
-
-<a href="#-projetos-em-destaque">
-<img src="https://img.shields.io/badge/📂%20Projetos-111111?style=for-the-badge" />
-</a>
-
+  <a href="#-sobre-mim">
+    <img src="https://img.shields.io/badge/👨‍💻_Sobre_Mim-A371F7?style=for-the-badge" alt="Sobre Mim"/>
+  </a>
+  &nbsp;
+  <a href="#-tecnologias">
+    <img src="https://img.shields.io/badge/🛠️_Tecnologias-0EA5E9?style=for-the-badge" alt="Tecnologias"/>
+  </a>
+  &nbsp;
+  <a href="#-estudando">
+    <img src="https://img.shields.io/badge/📚_Estudando-22C55E?style=for-the-badge" alt="Estudando"/>
+  </a>
+  &nbsp;
+  <a href="#-proximos-passos">
+    <img src="https://img.shields.io/badge/🚀_Próximos_Passos-F97316?style=for-the-badge" alt="Próximos Passos"/>
+  </a>
+  &nbsp;
+  <a href="#-projetos">
+    <img src="https://img.shields.io/badge/📂_Projetos-EC4899?style=for-the-badge" alt="Projetos"/>
+  </a>
 </p>
 
+<!-- Linha 2 -->
 <p align="center">
+  <a href="#-contato">
+    <img src="https://img.shields.io/badge/📫_Contato-14B8A6?style=for-the-badge" alt="Contato"/>
+  </a>
+  &nbsp;
+  <a href="#-stats">
+    <img src="https://img.shields.io/badge/📊_GitHub_Stats-6366F1?style=for-the-badge" alt="GitHub Stats"/>
+  </a>
+  &nbsp;
+  <a href="#-formacao">
+    <img src="https://img.shields.io/badge/🎓_Formação-EAB308?style=for-the-badge" alt="Formação"/>
+  </a>
+  &nbsp;
+  <a href="#-idiomas">
+    <img src="https://img.shields.io/badge/🌎_Idiomas-38BDF8?style=for-the-badge" alt="Idiomas"/>
+  </a>
+  &nbsp;
+  <a href="#-carreira">
+    <img src="https://img.shields.io/badge/🎯_Carreira-F43F5E?style=for-the-badge" alt="Carreira"/>
+  </a>
+</p>
 
-<a href="#-contato">
-<img src="https://img.shields.io/badge/📫%20Contato-111111?style=for-the-badge" />
-</a>
-
-<a href="#-github-stats">
-<img src="https://img.shields.io/badge/📊%20GitHub%20Stats-111111?style=for-the-badge" />
-</a>
-
-<a href="#-formação">
-<img src="https://img.shields.io/badge/🎓%20Formação-111111?style=for-the-badge" />
-</a>
-
-<a href="#-idiomas">
-<img src="https://img.shields.io/badge/🌎%20Idiomas-111111?style=for-the-badge" />
-</a>
-
-<a href="#-direcionamento-profissional">
-<img src="https://img.shields.io/badge/🎯%20Carreira-111111?style=for-the-badge" />
-</a>
-
+<!-- Mini “legenda” das cores (opcional, mas ajuda a “lembrar”) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Sobre-A371F7?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Tech-0EA5E9?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Study-22C55E?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Next-F97316?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Projects-EC4899?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Contact-14B8A6?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Stats-6366F1?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Edu-EAB308?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Lang-38BDF8?style=flat-square" alt=""/>
+  <img src="https://img.shields.io/badge/-Career-F43F5E?style=flat-square" alt=""/>
 </p>
 
 ---
@@ -241,9 +253,9 @@ Conjunto de projetos e exercícios desenvolvidos durante meus estudos de **HTML,
 
 ### 🌎 Idiomas
 
-* 🇧🇷 *Português:* Nativo
-* 🇪🇸 *Espanhol:* Básico
-* 🇺🇸 *Inglês:* Em desenvolvimento
+* 🇧🇷 *Português:* Nativo (Lingua de Origem)
+* 🇪🇸 *Espanhol:* Básico (30%)
+* 🇺🇸 *Inglês:* Em desenvolvimento (0%)
 
 ---
 
