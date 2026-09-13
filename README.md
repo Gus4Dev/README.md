@@ -64,11 +64,11 @@ Atualmente estou construindo minha base por meio de estudos, projetos práticos 
 
 ---
 
-### <p align="left">🛠️ Tecnologias e Ferramentas</p>
+<p align="left">🛠️ Tecnologias e Ferramentas</p>
 
 <p align="left">Como estudante, estas são as tecnologias e ferramentas com as quais tenho contato e estou desenvolvendo meus conhecimentos por meio de estudos e projetos práticos:</p>
 
-<div align="center">
+<div align="left">
 
 ### 💻 Linguagens de Programação<br>
 
@@ -93,7 +93,7 @@ Atualmente estou construindo minha base por meio de estudos, projetos práticos 
 
 ### 📚 Atualmente Estudando
 
-<div align="center">
+<div align="left">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Em%20desenvolvimento-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-Em%20desenvolvimento-3670A0?style=for-the-badge\&logo=python\&logoColor=white)
@@ -105,7 +105,7 @@ Atualmente estou construindo minha base por meio de estudos, projetos práticos 
 
 ### 🚀 Próximos Passos
 
-<div align="center">
+<div align="left">
 
 ![Node.js](https://img.shields.io/badge/Node.js-Próximo%20passo-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Próximo%20passo-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -157,7 +157,7 @@ Conjunto de projetos e exercícios desenvolvidos durante meus estudos de **HTML,
 
 ### 📫 Contato
 
-<p align="center">
+<p align="left">
 
 <a href="SEU_LINKEDIN_AQUI">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -173,7 +173,7 @@ Conjunto de projetos e exercícios desenvolvidos durante meus estudos de **HTML,
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gus4Dev&theme=gotham" width="33%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gus4Dev&theme=gotham" width="33%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gus4Dev&theme=gotham" width="33%" />
