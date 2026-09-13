@@ -12,8 +12,8 @@
     <a href="#-sobre-mim">👨‍💻 Sobre Mim</a>
     <a href="#tecnologias">🛠️ Tecnologias</a>
     <a href="#estudando">📚 Estudando</a>
-    <a href="#-proximos-passos">🚀 Próximos Passos</a>
-    <a href="#-projetos">📂 Projetos</a>
+    <a href="#proximos-passos">🚀 Próximos Passos</a>
+    <a href="#projetos">📂 Projetos</a>
     <a href="#-contato">📫 Contato</a>
     <a href="#-github-stats">📊 GitHub Stats</a>
     <a href="#-formacao">🎓 Formação</a>
