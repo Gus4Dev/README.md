@@ -376,7 +376,7 @@ Coleção de exercícios e páginas construídas durante os estudos.
 <a id="formacao"></a>
 
 <p align="center">
-<a href="#menu"><img src="https://img.shields.io/badge/ :O -0D1117?style=flat-square" height="26"/></a>
+<a href="#menu"><img src="https://img.shields.io/badge/.-0D1117?style=flat-square" height="26"/></a>
 <a href="#sobre"><img src="https://img.shields.io/badge/👨‍💻-0D1117?style=flat-square" height="26"/></a>
 <a href="#stack"><img src="https://img.shields.io/badge/🛠️-0D1117?style=flat-square" height="26"/></a>
 <a href="#estudos"><img src="https://img.shields.io/badge/📚-0D1117?style=flat-square" height="26"/></a>
@@ -391,7 +391,7 @@ Coleção de exercícios e páginas construídas durante os estudos.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:EAB308&height=48&section=header&text=%20🎓%20%20FORMAÇÃO&fontSize=24&fontColor=FFFFFF&fontAlignY=52&align=left&fontAlign=14"/>
 
-| | Formação | Instituição | Status |
+| 🎓 | Formação | Instituição | Status |
 |:--:|:--|:--|:--:|
 | 🏆 | **Técnico Integrado em Logística** | Ensino Médio | ![](https://img.shields.io/badge/Concluído-22C55E?style=flat-square) |
 | 💻 | **Tecnologia da Informação** | PROA / SENAC | ![](https://img.shields.io/badge/Cursando-F97316?style=flat-square) |
