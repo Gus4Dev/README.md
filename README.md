@@ -7,7 +7,7 @@
 <!-- ===================== IDENTIDADE ===================== -->
 
 <p align="center">
-  <img src="URL_DIRETA_DA_IMAGEM_DE_APRESENTAÇÃO" width="300" alt="Gus4Dev"/>
+  <img src="https://br.pinterest.com/pin/45599014980051297/" width="300" alt="Gus4Dev"/>
 </p>
 
 <h1 align="center">Gustavo SouzaDev</h1>
