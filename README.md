@@ -8,7 +8,7 @@
       <h2>Bem-vindo ao meu perfil do GitHub</h2>
     </td>
     <td>
-      <img src="https://i.pinimg.com/originals/6a/9e/52/6a9e52fabde1b32ebdb1bb497739d8b6.gif" alt="Photo Personal" width="120"/>
+      <img aling="left"; src="https://i.pinimg.com/originals/6a/9e/52/6a9e52fabde1b32ebdb1bb497739d8b6.gif" alt="Photo Personal" width="120"/>
     </td>
   </tr>
 </table>
