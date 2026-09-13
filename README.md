@@ -6,37 +6,55 @@
 
 ---
 
-### 📑 Sumário
+## 📑 Sumário
 
-<a name="tecnologias"></a>
+<p align="center">
 
-## 🛠️ Tecnologias e Ferramentas
+<a href="#-sobre-mim">
+<img src="https://img.shields.io/badge/👨‍💻%20Sobre%20Mim-A371F7?style=for-the-badge" />
+</a>
 
-<p align="left">
-Como estudante, estas são as tecnologias e ferramentas com as quais tenho contato e estou desenvolvendo meus conhecimentos por meio de estudos e projetos práticos:
+<a href="#%EF%B8%8F-tecnologias-e-ferramentas">
+<img src="https://img.shields.io/badge/🛠️%20Tecnologias%20e%20Ferramentas-111111?style=for-the-badge" />
+</a>
+
+<a href="#-atualmente-estudando">
+<img src="https://img.shields.io/badge/📚%20Estudando-111111?style=for-the-badge" />
+</a>
+
+<a href="#-próximos-passos">
+<img src="https://img.shields.io/badge/🚀%20Próximos%20Passos-111111?style=for-the-badge" />
+</a>
+
+<a href="#-projetos-em-destaque">
+<img src="https://img.shields.io/badge/📂%20Projetos-111111?style=for-the-badge" />
+</a>
+
 </p>
 
-<div align="left">
+<p align="center">
 
-### 💻 Linguagens de Programação
+<a href="#-contato">
+<img src="https://img.shields.io/badge/📫%20Contato-111111?style=for-the-badge" />
+</a>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<a href="#-github-stats">
+<img src="https://img.shields.io/badge/📊%20GitHub%20Stats-111111?style=for-the-badge" />
+</a>
 
-### 🌐 Desenvolvimento Web
+<a href="#-formação">
+<img src="https://img.shields.io/badge/🎓%20Formação-111111?style=for-the-badge" />
+</a>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<a href="#-idiomas">
+<img src="https://img.shields.io/badge/🌎%20Idiomas-111111?style=for-the-badge" />
+</a>
 
-### 🧰 Ferramentas
+<a href="#-direcionamento-profissional">
+<img src="https://img.shields.io/badge/🎯%20Carreira-111111?style=for-the-badge" />
+</a>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/5e/cb/33/5ecb33321e1638e8b9dc0a38255a72e2.gif" alt="Banner" width="100%" />
