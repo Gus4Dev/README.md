@@ -509,19 +509,6 @@ Meu objetivo é atuar profissionalmente com **Desenvolvimento de Software**, com
 
 <br><br>
 
-<a href="#menu"><img src="https://img.shields.io/badge/⬆_VOLTAR_AO_TOPO-A371F7?style=for-the-badge&labelColor=0D1117"/></a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:A371F7,100:0D1117&height=120&section=footer"/>
+<a href="#menu"><img src="https://img.shields.io/badge/⬆_VOLTAR_AO_TOPO-C4C4C4?style=for-the-badge&labelColor=0D1117"/></a>
 
 </div>
-```
-
----
-
-### 💡 Dica rápida sobre os arquivos de tradução:
-Para os botões de idioma funcionarem perfeitamente no seu repositório:
-1. Deixe o código acima dentro do arquivo principal `README.md` (Português).
-2. Na mesma pasta do seu repositório, crie um arquivo chamado **`README.en.md`** para a versão em inglês.
-3. Crie outro arquivo chamado **`README.es.md`** para a versão em espanhol. 
-
-Ao clicar nas badges no topo do perfil, o GitHub navegará instantaneamente entre as versões!
