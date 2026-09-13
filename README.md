@@ -323,7 +323,8 @@ Conjunto de projetos e exercícios desenvolvidos durante meus estudos de **HTML,
 
 <p align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gus4Dev&theme=gotham" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gus4Dev&theme=gotham" width="33%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gus4Dev&theme=gotham" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gus4Dev&theme=gotham" width="33%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gus4Dev&theme=gotham" width="33%" />
 </p>
 
 <p align="center">
