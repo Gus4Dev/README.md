@@ -252,6 +252,7 @@ Conjunto de projetos e exercícios desenvolvidos durante meus estudos de HTML, C
     Ensino Médio Técnico Integrado em Logística
     PROA / SENAC — Tecnologia da Informação
     Próximo objetivo: Análise e Desenvolvimento de Sistemas (ADS)
+    Logo em seguida Engenharia de Software
 
 ---
 
