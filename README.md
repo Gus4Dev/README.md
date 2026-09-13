@@ -1,3 +1,10 @@
+<h2 aling="center">Welcome to my Github profile
+                  Bem vindo ao meu Perfil github<h2/>
+<br>
+<p aling="center">
+<img src="" alt="Photo Personal" width="10%" />
+</p>
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/5e/cb/33/5ecb33321e1638e8b9dc0a38255a72e2.gif" alt="Banner" width="100%" />
 </p>
