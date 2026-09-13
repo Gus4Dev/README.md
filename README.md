@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="https://br.pinterest.com/pin/161145111624992444/" width="100%" alt="Gus4Dev Retro Banner"/>
+  <img src="https://tenor.com/pt-BR/view/angry-fast-aottg-aottg-2-attack-on-titan-gif-10550509508699889174" width="100%" alt="Gus4Dev Retro Banner"/>
 </p>
 
 <!-- ===================== IDENTIDADE ===================== -->
