@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/2c/85/54/2c8554f449af5608bc56fc763495ac65.jpg" alt="Banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/5e/cb/33/5ecb33321e1638e8b9dc0a38255a72e2.gif" alt="Banner" width="100%" />
 </p>
 
 <h2 align="center"><b>Software Development | Backend → Full Stack</b></h2>
@@ -196,6 +196,9 @@ Conjunto de projetos e exercícios desenvolvidos durante meus estudos de **HTML,
 Meu objetivo é atuar profissionalmente com **Desenvolvimento de Software**, começando com foco em **Backend** e ampliando minhas habilidades até alcançar uma atuação Full Stack.
 
 ---
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/2c/85/54/2c8554f449af5608bc56fc763495ac65.jpg" alt="Banner" width="100%" />
+</p>
 
 <p align="center">
 <i>"Aprendendo, criando e construindo meu caminho na tecnologia."</i>
