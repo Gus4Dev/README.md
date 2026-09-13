@@ -54,7 +54,7 @@ Atualmente estou construindo minha base por meio de estudos, projetos práticos 
 
 ### <p align="center">🛠️ Tecnologias e Ferramentas
 
-Como estudante, estas são as tecnologias e ferramentas com as quais tenho contato e estou desenvolvendo meus conhecimentos por meio de estudos e projetos práticos:</p>
+<p align="center">Como estudante, estas são as tecnologias e ferramentas com as quais tenho contato e estou desenvolvendo meus conhecimentos por meio de estudos e projetos práticos:</p>
 
 <div align="center">
 
