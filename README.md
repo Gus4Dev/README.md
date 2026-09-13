@@ -4,7 +4,7 @@
 
 <h2 align="center">Bem-vindo ao meu perfil do Github<h2/>
   
-<img src="https://i.pinimg.com/originals/6a/9e/52/6a9e52fabde1b32ebdb1bb497739d8b6.gif" alt="Photo Personal" width="30%" />
+<img src="https://i.pinimg.com/originals/6a/9e/52/6a9e52fabde1b32ebdb1bb497739d8b6.gif" alt="Photo Personal" width="25%" />
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/5e/cb/33/5ecb33321e1638e8b9dc0a38255a72e2.gif" alt="Banner" width="100%" />
