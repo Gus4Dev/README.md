@@ -4,7 +4,7 @@
     <p align="center">
   <img src="https://camo.githubusercontent.com/365ea764f9d693f094b3e10faa82ed000adcf23673d8f662d3717f47b08f2837/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6c784a67702d61384d726741414141312f6c61657070612d76696b612d68616c662d6c6966652d616c79782e77656270" alt="BannerV2" width="70" />
   &nbsp;&nbsp;
-  <b>Bem-vindo ao meu perfil do GitHub :D</b>
+  <b><h2>Bem-vindo ao meu perfil do GitHub :D</h2></b>
 </p>
 
 <p align="center">
