@@ -9,16 +9,16 @@
 ## 📑 Menu
 
 <div class="menu">
-    <a href="#sobre-mim">👨‍💻 Sobre Mim</a>
+    <a href="#-sobre-mim">👨‍💻 Sobre Mim</a>
     <a href="#tecnologias">🛠️ Tecnologias</a>
-    <a href="#estudando">📚 Estudando</a>
-    <a href="#proximos-passos">🚀 Próximos Passos</a>
-    <a href="#projetos">📂 Projetos</a>
-    <a href="#contato">📫 Contato</a>
-    <a href="#github-stats">📊 GitHub Stats</a>
-    <a href="#formacao">🎓 Formação</a>
-    <a href="#idiomas">🌎 Idiomas</a>
-    <a href="#direcionamento-profissional">🎯 Carreira</a>
+    <a href="#-estudando">📚 Estudando</a>
+    <a href="#-proximos-passos">🚀 Próximos Passos</a>
+    <a href="#-projetos">📂 Projetos</a>
+    <a href="#-contato">📫 Contato</a>
+    <a href="#-github-stats">📊 GitHub Stats</a>
+    <a href="#-formacao">🎓 Formação</a>
+    <a href="#-idiomas">🌎 Idiomas</a>
+    <a href="#-direcionamento-profissional">🎯 Carreira</a>
 </div>
 
 ---
