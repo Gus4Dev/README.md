@@ -6,11 +6,11 @@
       <img src="https://i.pinimg.com/originals/6a/9e/52/6a9e52fabde1b32ebdb1bb497739d8b6.gif" alt="Photo Personal" width="100%" />
     </td>
     <td width="70%">
-      <h3>Sobre Mim</h3>
-      <p>
+      <h4>Sobre Mim</h4>
+      <p><h4>
         Estudante de TI pelo PROA/SENAC, focado em Desenvolvimento de Software e Backend.
         Desenvolvendo conhecimentos em JavaScript, Python, HTML, CSS e Lógica de Programação
-        por meio de projetos práticos, com objetivo de evoluir para Full Stack.
+        por meio de projetos práticos, com objetivo de evoluir para Full Stack.</h4>
       </p>
     </td>
   </tr>
