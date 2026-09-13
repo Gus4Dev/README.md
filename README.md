@@ -208,7 +208,7 @@ Meu objetivo é atuar profissionalmente com **Desenvolvimento de Software**, com
 </p>
 
 <p align="center">
-<i>"Aprendendo, criando e construindo meu caminho na tecnologia."</i>
+<i>"Transformando curiosidade em código, ideias em projetos e aprendizado em evolução."</i>
 </p>
 
 <p align="center">
