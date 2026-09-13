@@ -320,15 +320,16 @@ Conjunto de projetos e exercícios desenvolvidos durante meus estudos de **HTML,
 </p>
 
 ### 📊 GitHub Stats
+<img src="https://img.shields.io/badge/seção-GitHub_Stats-6366F1?style=flat-square" alt="GitHub Stats"/>
 
-<p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gus4Dev&theme=gotham" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gus4Dev&theme=gotham" width="33%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gus4Dev&theme=gotham" width="33%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gus4Dev&theme=gotham" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gus4Dev&theme=gotham" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gus4Dev&theme=gotham" width="32%" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gus4Dev&theme=gotham" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gus4Dev&theme=gotham" width="100%" />
 </p>
 
 ---
