@@ -1,6 +1,6 @@
 <h2 aling="center">Welcome to my Github profile<h2/>
   <h3 aling="center">(Bem vindo ao meu Perfil github)</h3>
-<br>
+  
 <p aling="center">
 <img src="" alt="Photo Personal" width="10%" />
 </p>
