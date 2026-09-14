@@ -57,7 +57,7 @@
 <i>"Aprendendo, criando e construindo meu caminho na tecnologia."</i>
 </p>
 
-<br><br>
+<br>
 
 <div align="center">
 
@@ -66,6 +66,7 @@
 <a href="./README.es.md"><img src="https://img.shields.io/badge/🇪🇸_Español-111111?style=for-the-badge"/></a>
 
 </div>
+
 ---
 
 <!-- ════════════ SOBRE MIM ════════════ -->
