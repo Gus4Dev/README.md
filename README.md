@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://i.pinimg.com/1200x/39/2c/f4/392cf408ba0887f854a028a252428fcb.jpg" alt="BannerV2" width="100%" height="121"/>
+<img src="https://i.pinimg.com/1200x/39/2c/f4/392cf408ba0887f854a028a252428fcb.jpg" alt="BannerV2" width="100%" height="222"/>
 </p>
 
 <div align="center"> <h1>Bem-vindo ao meu perfil do GitHub :D</h1> </div>
