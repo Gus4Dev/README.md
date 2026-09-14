@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/1200x/f0/16/a0/f016a08638e9e1f1a16cb23de7927026.jpg" alt="roda pé" width="100%" height="150"/>
 
-<br><br>
+<br>---<br>
 
 <div align="center"> <h1>Bem-vindo ao meu perfil do GitHub :D</h1> 
 
