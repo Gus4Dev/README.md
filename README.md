@@ -1,8 +1,3 @@
-<p align="center">  
-</p> <img src="https://pin.it/4B9ETmoRC" alt="BannerV2" width="545"/>
-</p>
-
-
 <div align="center"> <h1>Bem-vindo ao meu perfil do GitHub :D</h1> </div>
 
 <div align="center">  
