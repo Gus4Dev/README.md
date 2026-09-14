@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/7f/e2/c2/7fe2c20a9938e9096c7b9cf52ae74216.jpg" alt="roda pé" width="100%" height="95"/>
+<img src="https://i.pinimg.com/736x/7f/e2/c2/7fe2c20a9938e9096c7b9cf52ae74216.jpg" alt="roda pé" width="100%" height="131"/>
 
 ---
 
