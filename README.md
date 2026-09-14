@@ -8,14 +8,6 @@
 
 ---
 
-<div align="center">
-
-<a href="./README.md"><img src="https://img.shields.io/badge/🇧🇷_Português-A371F7?style=for-the-badge"/></a>
-<a href="./README.en.md"><img src="https://img.shields.io/badge/🇺🇸_English-111111?style=for-the-badge"/></a>
-<a href="./README.es.md"><img src="https://img.shields.io/badge/🇪🇸_Español-111111?style=for-the-badge"/></a>
-
-</div>
-
 <br>
 
 <div align="center">
@@ -68,6 +60,14 @@
 <p align="center">
 <i>"Aprendendo, criando e construindo meu caminho na tecnologia."</i>
 </p>
+
+<div align="center">
+
+<a href="./README.md"><img src="https://img.shields.io/badge/🇧🇷_Português-A371F7?style=for-the-badge"/></a>
+<a href="./README.en.md"><img src="https://img.shields.io/badge/🇺🇸_English-111111?style=for-the-badge"/></a>
+<a href="./README.es.md"><img src="https://img.shields.io/badge/🇪🇸_Español-111111?style=for-the-badge"/></a>
+
+</div>
 
 ---
 
