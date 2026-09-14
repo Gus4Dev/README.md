@@ -59,7 +59,7 @@
 
 <br><br>
 
-<div align="center">
+<div align="left">
 
 <a href="./README.md"><img src="https://img.shields.io/badge/🇧🇷_Português-A371F7?style=for-the-badge"/></a>
 <a href="./README.en.md"><img src="https://img.shields.io/badge/🇺🇸_English-111111?style=for-the-badge"/></a>
@@ -67,6 +67,14 @@
 
 </div>
 
+---
+
+<div align="right">
+
+<img src="https://komarev.com/ghpvc/?username=Gus4Dev&style=for-the-badge&color=A371F7&label=VISITANTES"/>
+<img src="https://img.shields.io/github/followers/Gus4Dev?style=for-the-badge&color=0EA5E9&labelColor=111111&logo=github"/>
+
+</div>
 ---
 
 <!-- ════════════ SOBRE MIM ════════════ -->
