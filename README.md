@@ -59,16 +59,14 @@
 
 <br><br>
 
-<a align="left">
+<p align="left">
+  <a href="./README.md"><img src="https://img.shields.io/badge/🇧🇷_Português-A371F7?style=for-the-badge"/></a>
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/🇺🇸_English-111111?style=for-the-badge"/></a>
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/🇪🇸_Español-111111?style=for-the-badge"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Gus4Dev&style=for-the-badge&color=A371F7&label=VISITANTES"/>
+  <img src="https://img.shields.io/github/followers/Gus4Dev?style=for-the-badge&color=0EA5E9&labelColor=111111&logo=github"/>
+</p>
 
-<a href="./README.md"><img src="https://img.shields.io/badge/🇧🇷_Português-A371F7?style=for-the-badge"/></a>
-<a href="./README.en.md"><img src="https://img.shields.io/badge/🇺🇸_English-111111?style=for-the-badge"/></a>
-<a href="./README.es.md"><img src="https://img.shields.io/badge/🇪🇸_Español-111111?style=for-the-badge"/></a>
-
-<img align="right">
-
-<img src="https://komarev.com/ghpvc/?username=Gus4Dev&style=for-the-badge&color=A371F7&label=VISITANTES"/>
-<img src="https://img.shields.io/github/followers/Gus4Dev?style=for-the-badge&color=0EA5E9&labelColor=111111&logo=github"/> </img> </a>
 ---
 
 <!-- ════════════ SOBRE MIM ════════════ -->
