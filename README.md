@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://i.pinimg.com/736x/f5/aa/be/f5aabe9e2e6b3f9ee334f48b281a7992.jpg" alt="roda pé" width="50%"/>
-  <img src="https://i.pinimg.com/736x/48/1c/ac/481cacf75d8d1867281b2eaf6e7e21cc.jpg" alt="roda pé" width="50%"/>
+<img src="https://i.pinimg.com/736x/f5/aa/be/f5aabe9e2e6b3f9ee334f48b281a7992.jpg" alt="roda pé" width="45%"/>
+  <img src="https://i.pinimg.com/736x/48/1c/ac/481cacf75d8d1867281b2eaf6e7e21cc.jpg" alt="roda pé" width="45%"/>
 </p>
 
 ---
