@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.pinimg.com/736x/f5/aa/be/f5aabe9e2e6b3f9ee334f48b281a7992.jpg" alt="roda pé" width="100%" height="121"/>
+<img src="https://i.pinimg.com/736x/f5/aa/be/f5aabe9e2e6b3f9ee334f48b281a7992.jpg" alt="roda pé" width="100%" height="181"/>
 </p>
 
 ---
