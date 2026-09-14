@@ -1,16 +1,14 @@
-<div align="center">
+<p align="center">
+<img src="https://i.pinimg.com/736x/f5/aa/be/f5aabe9e2e6b3f9ee334f48b281a7992.jpg" alt="roda pé" width="100%" height="202"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&height=80&lines=Bem-vindo+ao+meu+perfil+do+GitHub+%3AD" alt="Bem-vindo"/>
+---
 
-<br>
+<br><br><br><br>
 
-<img src="https://i.pinimg.com/736x/f5/aa/be/f5aabe9e2e6b3f9ee334f48b281a7992.jpg" alt="BannerV2" width="484"/>
+<div align="center"> <h1>Bem-vindo ao meu perfil do GitHub :D</h1> 
 
-</div>
-
-<img src="[https://camo.githubusercontent.com/365ea764f9d693f094b3e10faa82ed000adcf23673d8f662d3717f47b08f2837/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6c784a67702d61384d726741414141312f6c61657070612d76696b612d68616c662d6c6966652d616c79782e77656270](https://i.pinimg.com/736x/f5/aa/be/f5aabe9e2e6b3f9ee334f48b281a7992.jpg)" alt="BannerV2" width="484"/>
-
-</div>
+<div align="center"> <h1>Bem-vindo ao meu perfil do GitHub :D</h1> </p> <img src="https://camo.githubusercontent.com/365ea764f9d693f094b3e10faa82ed000adcf23673d8f662d3717f47b08f2837/68747470733a2f2f6d656469612e74656e6f722e636f6d2f6c784a67702d61384d726741414141312f6c61657070612d76696b612d68616c662d6c6966652d616c79782e77656270" alt="BannerV2" width="484"/> &nbsp;&nbsp; </div>
 
 ---
 
