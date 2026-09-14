@@ -6,10 +6,6 @@
 
 <br><br>
 
----
-
-<br>
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Gus4Dev&style=for-the-badge&color=A371F7&label=VISITANTES"/>
