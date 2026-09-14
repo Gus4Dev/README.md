@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/0a/3e/a2/0a3ea2a5d7d915827900bb28b3ca7c1a.jpg" alt="roda pé" width="100%" height="252"/>
+<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000cac0820e8422b5c7055aafb3&ts=497040&p=fs&cid=1&sig=d848b419f1c41d6131623de5fff93627cd8c1be6e5aa7b480e0fd4c25c33cc8b&v=0" alt="roda pé" width="100%" height="252"/>
 
 ---
 
