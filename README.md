@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/44/3c/13/443c138fa3175b16cc9a74055291b5ba.jpg" alt="roda pé" width="100%" height="131"/>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAAA3NCSVQICAjb4U/gAAAABlBMVEXMzMz////TjRV2AAAACXBIWXMAAArrAAAK6wGCiw1aAAAAHHRFWHRTb2Z0d2FyZQBBZG9iZSBGaXJld29ya3MgQ1M26LyyjAAAABFJREFUCJlj+M/AgBVhF/0PAH6/D/HkDxOGAAAAAElFTkSuQmCC" alt="roda pé" width="100%" height="131"/>
 
 ---
 
