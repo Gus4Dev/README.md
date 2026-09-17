@@ -1,13 +1,13 @@
 <div align="center"> <p> <img src="https://cdnstatic.tencentcs.com/edgeone/pages/assets/1789616268339-z5ra.png" alt="GitHub" width="100%"/> </p>
 
-<br>
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Gus4Dev&style=for-the-badge&color=A371F7&label=VISITANTES"/>
 <img src="https://img.shields.io/github/followers/Gus4Dev?style=for-the-badge&color=0EA5E9&labelColor=111111&logo=github"/>
 
 </div>
+
+<br><br>
 
 ---
 
